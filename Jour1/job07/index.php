@@ -2,7 +2,10 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Affichage de FizzBuzz</title>
+    <title>Affichez les nombres de 1 à 100 en mettant un retour à la ligne.
+        Si le nombre est un multiple de 3, affichez “Fizz”
+        Si le nombre est un multiple de 5, affichez “Buzz”
+        Si le nombre est un multiple de 3 et de 5, affichez “FizzBuzz”.</title>
 </head>
 <body>
     <?php
