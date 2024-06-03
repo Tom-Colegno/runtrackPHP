@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Affichez tous les nombres compris entre 0 et 1337 en mettant un retour à la
-ligne entre chaque nombre.
-Le nombre 42 doit être en gras et souligné.</title>
+        ligne entre chaque nombre.
+        Le nombre 42 doit être en gras et souligné.</title>
     <style>
         .special {
             font-weight: bold;
